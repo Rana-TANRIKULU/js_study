@@ -26,3 +26,24 @@ console.log(age);
 age=11
 console.log(age);
 
+var fullname="Rana Tanrıkuluu";
+console.log(fullname);
+
+var yaş1;
+var_yaş2;
+var $yaş3;
+
+//komut isimleriyle tanımlama yapılamazdocument.
+
+
+var ad_soyad='rana tanrıkulu';
+
+
+
+
+//case sensitive (büyük küçük duyarlılığı)
+
+var firstName=' Raniş';
+var FirstName='Ceyduş';
+console.log(firstName);
+console.log(FirstName);
