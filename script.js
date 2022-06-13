@@ -20,30 +20,31 @@
 //Değişkenler
 
 
-var age;
-console.log(age);
+// var age;
+// console.log(age);
 
-age=11
-console.log(age);
+// age=11
+// console.log(age);
 
-var fullname="Rana Tanrıkuluu";
-console.log(fullname);
+// var fullname="Rana Tanrıkuluu";
+// console.log(fullname);
 
-var yaş1;
-var_yaş2;
-var $yaş3;
+// var yaş1;
+// var_yaş2;
+// var $yaş3;
 
-//komut isimleriyle tanımlama yapılamazdocument.
+//komut isimleriyle tanımlama yapılamaz
 
 
-var ad_soyad='rana tanrıkulu';
-
+// yad='rana tanrıkulu';
+// var ad_so
 
 
 
 //case sensitive (büyük küçük duyarlılığı)
 
-var firstName=' Raniş';
-var FirstName='Ceyduş';
-console.log(firstName);
-console.log(FirstName);
+// var firstName=' Rana';
+// var FirstName='Ceydiş';
+
+// console.log(firstName);
+// console.log(FirstName);
